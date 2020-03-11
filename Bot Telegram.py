@@ -30,7 +30,7 @@ class BotHandler:
         return last_update
 
 
-token = '1056541670:AAHRVnOjUtMzBtHfqZKAMnbYyp541BOWTus' #Token of your bot
+token = 'your token' #Token of your bot
 RifaiScheduleBot = BotHandler(token) #Your bot's name
 
 
